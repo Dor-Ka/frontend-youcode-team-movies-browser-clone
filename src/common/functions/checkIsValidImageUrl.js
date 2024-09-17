@@ -1,0 +1,1 @@
+export const checkIsValidImageUrl = (imageUrl, invalidImageUrl) => imageUrl !== invalidImageUrl;
