@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.js": "/movies-browser-team-clone/static/js/main.9e209905.js",
+    "static/js/453.4f8818d1.chunk.js": "/movies-browser-team-clone/static/js/453.4f8818d1.chunk.js",
+    "static/media/NoResults.svg": "/movies-browser-team-clone/static/media/NoResults.03778e104c236c2e6f3a37f0afbb2311.svg",
+    "static/media/Star.svg": "/movies-browser-team-clone/static/media/Star.2e1471ae5e486d5689351af29416aece.svg",
+    "index.html": "/movies-browser-team-clone/index.html",
+    "static/media/Profile.svg": "/movies-browser-team-clone/static/media/Profile.50fa67ba8b05e42674fce5c3bc99f766.svg",
+    "static/media/Danger.svg": "/movies-browser-team-clone/static/media/Danger.1a50ec90bf2543fe78aca794450d3b21.svg",
+    "static/media/Video.svg": "/movies-browser-team-clone/static/media/Video.91398cb2bf89584543c8783def0abc05.svg",
+    "static/media/Pointer.svg": "/movies-browser-team-clone/static/media/Pointer.25e91acf5c7ab77ebc8f8284d8acd11e.svg",
+    "static/media/Search.svg": "/movies-browser-team-clone/static/media/Search.939e18f2aa9757ddc4b479c7b14f1459.svg",
+    "static/media/Ellipse.svg": "/movies-browser-team-clone/static/media/Ellipse.4af892972d97b175b1fd732a3ba78755.svg",
+    "main.9e209905.js.map": "/movies-browser-team-clone/static/js/main.9e209905.js.map",
+    "453.4f8818d1.chunk.js.map": "/movies-browser-team-clone/static/js/453.4f8818d1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.9e209905.js"
+  ]
+}
