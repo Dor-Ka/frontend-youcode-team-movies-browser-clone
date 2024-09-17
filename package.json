@@ -2,7 +2,7 @@
   "name": "movies-browser",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://maxfadet.github.io/movies-browser/",
+  "homepage": "https://dor-ka.github.io/movies-browser-team-clone/",
   "dependencies": {
     "@reduxjs/toolkit": "^2.2.7",
     "@testing-library/jest-dom": "^5.17.0",
