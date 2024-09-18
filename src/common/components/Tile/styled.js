@@ -12,6 +12,10 @@ export const StyledPersonTile = styled.li`
     word-break: break-word;
     height: 100%;
     justify-content: space-between;
+    
+    &:hover {
+        transform: scale(1.05);
+    }
 `;
 
 export const StyledMovieTile = styled(StyledPersonTile)`
@@ -20,6 +24,10 @@ export const StyledMovieTile = styled(StyledPersonTile)`
         width: 100%;
         gap: 16px;
         min-height: 201px;
+    }
+
+    &:hover {
+        transform: scale(1.05);
     }
 `;
 
