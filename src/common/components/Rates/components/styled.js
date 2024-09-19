@@ -138,7 +138,7 @@ export const Votes = styled.p`
 
   @media (max-width: ${({ theme }) => theme.breakpoints.tabletM}) {
       font-size: 13px;
-      color: ${({ extra }) => extra ? "#7E839A" : "#7E839A"};
+      color: ${({ theme }) => theme.colors.waterloo};
   };
 `;
 
