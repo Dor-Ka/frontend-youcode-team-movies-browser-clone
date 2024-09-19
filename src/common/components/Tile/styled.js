@@ -14,7 +14,7 @@ export const StyledPersonTile = styled.li`
     justify-content: space-between;
     
     &:hover {
-        transform: scale(1.05);
+        transform: scale(1.03);
     }
 `;
 
@@ -27,7 +27,7 @@ export const StyledMovieTile = styled(StyledPersonTile)`
     }
 
     &:hover {
-        transform: scale(1.05);
+        transform: scale(1.03);
     }
 `;
 
