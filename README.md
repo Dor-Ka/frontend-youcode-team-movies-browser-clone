@@ -3,7 +3,7 @@
 ## Demo
 
 Check out the live demo of the application here:
-https://maxfadet.github.io/movies-browser/
+https://dor-ka.github.io/movies-browser-team-clone/#/movies
 
 ## Description:
 
