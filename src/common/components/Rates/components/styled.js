@@ -133,7 +133,8 @@ export const Votes = styled.p`
   font-size: 14px;
   grid-area: votes;
   margin: 0;
-  color: ${({ extra }) => extra ? "#7E839A" : "#000000"};
+  color: ${({ theme, extra }) => extra ? theme.colors.waterloo : theme.colors.black};
+
 
   @media (max-width: ${({ theme }) => theme.breakpoints.tabletM}) {
       font-size: 13px;
