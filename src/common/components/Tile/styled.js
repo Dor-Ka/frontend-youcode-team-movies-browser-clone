@@ -15,6 +15,7 @@ export const StyledPersonTile = styled.li`
     
     &:hover {
         transform: scale(1.03);
+        box-shadow: 0px 0px 34px -16px;
     }
 `;
 
@@ -28,6 +29,7 @@ export const StyledMovieTile = styled(StyledPersonTile)`
 
     &:hover {
         transform: scale(1.03);
+        box-shadow: 0px 0px 34px -16px;
     }
 `;
 
