@@ -25,7 +25,7 @@ Here are some screenshots of the project in action:
 
 ![Popular people page](github/readme/img/popular-people.png)
 
-![Actor page](./src/readmeimg/actor.png)
+![Actor page](github/readme//img/actor.png)
 
 ## Features
 
