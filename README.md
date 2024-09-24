@@ -19,7 +19,7 @@ The application features a clean and responsive UI, powered by `styled-component
 
 Here are some screenshots of the project in action:
 
-![Popular movies page](./src/readmeimg/popular-movies.png)
+![Popular movies page](github/readme/img/popular-movies.png)
 
 ![Movie page](./src/readmeimg/movie.png)
 
