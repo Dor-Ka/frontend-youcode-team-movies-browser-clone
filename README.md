@@ -23,7 +23,7 @@ Here are some screenshots of the project in action:
 
 ![Movie page](github/readme/img/movie.png)
 
-![Popular people page](./src/readmeimg/popular-people.png)
+![Popular people page](github/readme/img/popular-people.png)
 
 ![Actor page](./src/readmeimg/actor.png)
 
