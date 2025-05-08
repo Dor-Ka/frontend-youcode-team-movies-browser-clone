@@ -3,7 +3,7 @@
 ## Demo
 
 Check out the live demo of the application here:
-https://dor-ka.github.io/movies-browser-team-clone/#/movies
+https://dor-ka.github.io/frontend-youcode-team-movies-browser-clone/#/movies
 
 ## Description:
 
